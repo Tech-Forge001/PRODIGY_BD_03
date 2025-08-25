@@ -1,0 +1,5 @@
+node_modules/
+.env
+models/MenuItem.js
+models/person.js
+routes/personRoutes.js
